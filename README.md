@@ -3,7 +3,8 @@ I'm Muhammad Hashim, a software developer with over 2 years of experience in web
 ## Skills 🚀
 * Languages: Python, C++, Typescript, JavaScript, C#
 * Front-end: HTML, CSS, React, Nextjs
-* Back-end: Django
+* Back-end: Node.js
+* Frameworks: Django, Bootstrap, TailwindCSS
 * Databases: MySQL, PostgreSQL
 * Tools: Git, VS Code, Slack
 
