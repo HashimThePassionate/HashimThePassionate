@@ -1,5 +1,5 @@
 # Hi there! 👋
-I'm Muhammad Hashim, a software developer with over 2 years of experience crafting web applications. I'm all about writing neat, efficient code that gives users a fantastic experience. I love tackling new challenges and working with teams to solve complex problems creatively.
+I'm Muhammad Hashim, a software developer with over 2 years of experience in web applications. I'm truly passionate about writing neat, efficient code that gives users a great experience. I'm always in search of new challenges, challenges are my strength.
 ## Skills   🚀
 * Languages: Python, C++, Typescript, JavaScript, C#
 * Front-end: HTML, CSS, React, Nextjs
