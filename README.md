@@ -11,7 +11,7 @@ I'm Muhammad Hashim, a software developer with over 2 years of experience in web
 ## Education 🎓
 * Bachelor's degree in Computer Science
 * Courses: Machine Learning, AI, Web3, and Metaverse.
-"Feel free to reach out if you're interested in collaborating on projects or if you have any questions".
+<br>Feel free to reach out if you're interested in collaborating on projects or if you have any question.
 
 ## Contact 📫
 * Email: hashiimtahir@gmail.com
