@@ -15,5 +15,5 @@ I'm Muhammad Hashim, a software developer with over 2 years of experience in web
 
 ## Contact 📫
 * Email: hashiimtahir@gmail.com
-* [LinkedIn:](https://www.linkedin.com/in/hashimthepassionate/)
-* [GitHub:](https://github.com/HashimThePassionate)
+* Linkedin: [LinkedIn](https://www.linkedin.com/in/hashimthepassionate/)
+* GitHub: [GitHub:](https://github.com/HashimThePassionate)
