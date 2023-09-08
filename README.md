@@ -1,5 +1,5 @@
 # Hi there! Welcome !👋
-![Hashim]([images/my-image.jpg](https://drive.google.com/file/d/1vUB7Yhn78TwhMjceVAj6iujYuXyYDBBC/view?usp=sharing))
+![Hashim](https://drive.google.com/file/d/1vUB7Yhn78TwhMjceVAj6iujYuXyYDBBC/view?usp=sharing)
 
 I'm Muhammad Hashim, a software developer with over 2 years of experience in web applications. I'm truly passionate about writing neat, efficient code that gives users a great experience. I'm always in search of new challenges, challenges are my strength.
 ## Skills 🚀
