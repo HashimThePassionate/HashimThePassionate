@@ -16,9 +16,6 @@ I'm Muhammad Hashim, a software developer with over 2 years of experience in web
 ## Contact 📫
 * Email: hashiimtahir@gmail.com
 * Linkedin: [LinkedIn](https://www.linkedin.com/in/hashimthepassionate/)
-* GitHub: [GitHub:](https://github.com/HashimThePassionate/)
-* Facebook [Facebook:](https://www.facebook.com/HashimThePassionate/)
-* Instagram [Instagram:](https://www.instagram.com/hashimthepassionate/)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=HashimThePassionate&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
