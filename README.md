@@ -56,3 +56,5 @@ I'm Muhammad Hashim, a software developer with over 2 years of experience in web
 ![hashimthepassionate's Stats](https://github-readme-stats.vercel.app/api?username=hashimthepassionate&theme=graywhite&show_icons=true&hide_border=true&count_private=true)</br>
 ![hashimthepassionate's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hashimthepassionate&theme=graywhite&show_icons=true&hide_border=true&layout=compact)
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
