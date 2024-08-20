@@ -20,7 +20,7 @@ A Software Engineer Passionate About Web Development Since I Was 17 Years Old. I
 ## Education 🎓
 * Bachelor's degree in Computer Science
 * Courses: Machine Learning, AI, Web3, and Metaverse.
-<br>Feel free to reach out if you're interested in collaborating on projects or if you have any question.
+<br>Feel free to reach out if you're interested in collaborating on projects or if free consultation.
 
 ## Contact 📫
 * Email: hashiimtahir@gmail.com
