@@ -26,8 +26,10 @@
 <!-- 4) VISITOR BADGE -->
 <img 
   align="right" 
-  src="https://visitor-badge.laobi.icu/badge?page_id=HashimThePassionate/.HashimThePassionate/&left_color=red&right_color=green&left_text=Visitors" 
+  src="https://komarev.com/ghpvc/?username=HashimThePassionate&label=Profile%20Views&color=2196F3&style=flat&base=13000" 
+  alt="Visitor Badge" 
 />
+
 
 <!-- 5) BLUE HEADING FOR 'TECHNOLOGIES I LOVE' -->
 <h2 style="color:#2196F3;">Technologies I Love 🚀</h2>
