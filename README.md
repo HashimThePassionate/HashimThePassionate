@@ -2,26 +2,22 @@
 <h1 align="center">
   <!-- Multiple lines in typing animation; separate them with semicolons (;) -->
   <img 
-    src="https://readme-typing-svg.demolab.com/?lines=Hi+there!+I%27m+Muhammad+Hashim;A+Passionate+Software+Engineer;Welcome+to+my+Profile!&font=Montserrat&weight=700&size=40&color=2196F3&duration=2000&pause=1000&center=true&vCenter=true&width=900&height=120" 
+    src="https://readme-typing-svg.demolab.com/?lines=Hi+there!+I'm+Muhammad+Hashim;Platform+%7C+Cloud+%7C+DevOps+Engineer;Sharing+My+Learning+Journey!&font=Montserrat&weight=700&size=40&color=2196F3&duration=2000&pause=1000&center=true&vCenter=true&width=900&height=120" 
     alt="Typing SVG" 
   />
 </h1>
 
-<!-- 2) SUB-HEADING IN BLUE -->
-<h3 align="center" style="color:#2196F3;">
-  A Passionate Software Engineer
-</h3>
-<br/>
-
-<!-- 3) BODY TEXT (BLACK FOR READABILITY) -->
+<!-- 3) BODY TEXT -->
 <p>
-  A Software Engineer Passionate About Web Development Since I Was 17 Years Old.
-  I'm Pakistani And Born In 1999. I Completed My Bachelors Of Science In Computer
-  Science And I'm Currently Learning Cloud Native Technologies and Generative AI
-  i.e. DevOps, GAI. I Love Challenges. They Are My Strengths, Just Like Every
-  Developer. I Love Coding And I Am Passionate About Teaching Everything I Know.
-  Everything I Have Is Because Of Allah's Grace And Kindness.
+  A passionate engineer on a journey to master <b><i>Platform Engineering<i/></b>, 
+  <b><i>Cloud Computing<i/></b>, and <b><i>DevOps<i/></b>.  
+  I believe in <b><i>clarity, consistency, and curiosity<i/></b> — sharing everything I learn 
+  with full transparency. Along the way, I also share <b><i>practical projects<i/></b>, so others can 
+  learn from real-world implementations, not just theory.  
+  No shortcuts, no buzzwords — just real, hands-on growth.  
+  My mission is to simplify complex topics, make them actionable, and help others grow along the way.  
 </p>
+
 
 <!-- 4) VISITOR BADGE -->
 <img 
@@ -30,29 +26,33 @@
   alt="Visitor Badge" 
 />
 
+<!-- TOOLS & TECHNOLOGIES SECTION -->
+<h2>Tools & Technologies</h2>
 
-<!-- 5) BLUE HEADING FOR 'TECHNOLOGIES I LOVE' -->
-<h2 style="color:#2196F3;">Technologies I Love 🚀</h2>
 <div align="center">
-  <!-- Skill Icons (First Row) -->
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,bootstrap,html,css,vscode,github,tailwind,git,redis,azure,linux" />
-  <!-- Skill Icons (Second Row) -->
-  <img src="https://skillicons.dev/icons?i=nodejs,python,express,nginx,docker,mongodb,kubernetes,mysql,postgresql,django,flask,fastapi,kafka" />
+
+  <!-- Row 1: Core Cloud, OS, IaC, Automation -->
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,linux,nginx,terraform,ansible" /><br><br>
+
+  <!-- Row 2: Containers, Version Control, Monitoring, Scripting -->
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,prometheus,grafana,python" />
 </div>
 
+
+
 <!-- 6) BLUE HEADING FOR 'EDUCATION' -->
-<h2 style="color:#2196F3;">Education 🎓</h2>
+<h2>Education 🎓</h2>
 <ul>
   <li>Bachelor's degree in Computer Science</li>
-  <li>Courses: Machine Learning, AI, Web3, and Metaverse.</li>
+  <li>Focused Learning: DevOps, Cloud Computing, and Platform Engineering</li>
 </ul>
 <p>
-  Feel free to reach out if you're interested in collaborating on projects or for a free consultation.
+  Open to collaborations, projects, and knowledge-sharing opportunities.
 </p>
 
 <!-- 7) BLUE HEADING FOR 'CONTACT' -->
-<h2 style="color:#2196F3;">Contact 📫</h2>
+<h2>Contact 📫</h2>
 <ul>
   <li>Email: hashiimtahir@gmail.com</li>
-  <li>Linkedin: <a href="https://www.linkedin.com/in/hashimthepassionate/">LinkedIn</a></li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/hashimthepassionate/">LinkedIn</a></li>
 </ul>
