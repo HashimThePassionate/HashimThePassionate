@@ -34,9 +34,10 @@
   <!-- Row 1: Core Cloud, OS, IaC, Automation -->
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,linux,nginx,terraform,ansible" /><br><br>
 
-  <!-- Row 2: Containers, Version Control, Monitoring, Scripting -->
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,prometheus,grafana,python" />
+  <!-- Row 2: Containers, Version Control, Monitoring, Scripting & Databases -->
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,prometheus,grafana,python,mysql,postgresql,redis" />
 </div>
+
 
 
 
