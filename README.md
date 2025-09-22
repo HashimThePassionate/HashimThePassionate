@@ -9,15 +9,14 @@
 
 <!-- 3) BODY TEXT -->
 <p>
-  A passionate engineer on a journey to master <b><i>Platform Engineering<i/></b>, 
-  <b><i>Cloud Computing<i/></b>, and <b><i>DevOps<i/></b>.  
-  I believe in <b><i>clarity, consistency, and curiosity<i/></b> — sharing everything I learn 
-  with full transparency. Along the way, I also share <b><i>practical projects<i/></b>, so others can 
-  learn from real-world implementations, not just theory.  
-  No shortcuts, no buzzwords — just real, hands-on growth.  
-  My mission is to simplify complex topics, make them actionable, and help others grow along the way.  
+  A passionate engineer with hands-on experience in <b><i>SRE (Site Reliability Engineering)</i></b>, 
+  <b><i>Cloud Infrastructure</i></b>, and <b><i>DevOps</i></b> — not just theory, but real-world 
+  <b><i>projects</i></b> that deliver practical solutions.  
+  I believe in <b><i>clarity, consistency, and curiosity</i></b> — documenting every challenge 
+  and solution transparently, so others can benefit from proven implementations.  
+  My work focuses on simplifying complex systems, turning them into actionable insights, 
+  and sharing <b><i>real project</i></b> to help others grow faster.  
 </p>
-
 
 <!-- 4) VISITOR BADGE -->
 <img 
