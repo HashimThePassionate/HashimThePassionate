@@ -2,7 +2,7 @@
 <h1 align="center">
   <!-- Multiple lines in typing animation; separate them with semicolons (;) -->
   <img 
-    src="https://readme-typing-svg.demolab.com/?lines=Hi+there!+I'm+Muhammad+Hashim;Platform+%7C+Cloud+%7C+DevOps+Engineer;Sharing+My+Learning+Journey!&font=Montserrat&weight=700&size=40&color=2196F3&duration=2000&pause=1000&center=true&vCenter=true&width=900&height=120" 
+    src="https://readme-typing-svg.demolab.com/?lines=Hi+there!+I'm+Muhammad+Hashim;SRE+%7C+Cloud+%7C+DevOps+Engineer;Sharing+My+Learning+Journey!&font=Montserrat&weight=700&size=40&color=2196F3&duration=2000&pause=1000&center=true&vCenter=true&width=900&height=120" 
     alt="Typing SVG" 
   />
 </h1>
